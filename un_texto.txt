@@ -1,1 +1,1 @@
-Este es un nuevo texto
+Este es el master texto
